@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="e50c14cd-28cd-4013-b3bd-93c615f3a46a" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/notes.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/notes.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IfStatementExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IfStatementExample.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,14 +35,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.IfStatementExample">
-    <configuration name="ArrayExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArrayExample" />
-      <module name="belajar-java-dasar" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.TernaryOperator">
     <configuration name="IfStatementExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="IfStatementExample" />
       <module name="belajar-java-dasar" />
@@ -64,8 +57,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TipeDataBukanPrimitifExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TipeDataBukanPrimitifExample" />
+    <configuration name="SwitchStatementExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SwitchStatementExample" />
+      <module name="belajar-java-dasar" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TernaryOperator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TernaryOperator" />
       <module name="belajar-java-dasar" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -73,11 +73,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TernaryOperator" />
+        <item itemvalue="Application.SwitchStatementExample" />
         <item itemvalue="Application.IfStatementExample" />
         <item itemvalue="Application.OperasiBooleanExample" />
         <item itemvalue="Application.OperasiMatematikaExample" />
-        <item itemvalue="Application.ArrayExample" />
-        <item itemvalue="Application.TipeDataBukanPrimitifExample" />
       </list>
     </recent_temporary>
   </component>
