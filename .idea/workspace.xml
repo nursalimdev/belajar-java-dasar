@@ -34,7 +34,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ContinueExample">
+  <component name="RunManager" selected="Application.MethodReturnValue">
     <configuration name="BreakExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BreakExample" />
       <module name="belajar-java-dasar" />
@@ -49,22 +49,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DoWhileLoopExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DoWhileLoopExample" />
+    <configuration name="ForEachExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ForEachExample" />
       <module name="belajar-java-dasar" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ForLoopExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ForLoopExample" />
+    <configuration name="MethodParameter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MethodParameter" />
       <module name="belajar-java-dasar" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TernaryOperator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TernaryOperator" />
+    <configuration name="MethodReturnValue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MethodReturnValue" />
       <module name="belajar-java-dasar" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -72,11 +72,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MethodReturnValue" />
+        <item itemvalue="Application.MethodParameter" />
+        <item itemvalue="Application.ForEachExample" />
         <item itemvalue="Application.ContinueExample" />
         <item itemvalue="Application.BreakExample" />
-        <item itemvalue="Application.DoWhileLoopExample" />
-        <item itemvalue="Application.ForLoopExample" />
-        <item itemvalue="Application.TernaryOperator" />
       </list>
     </recent_temporary>
   </component>
