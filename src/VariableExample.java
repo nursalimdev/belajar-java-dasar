@@ -13,5 +13,13 @@ public class VariableExample {
 
         name = "Anjas Ibrahim";
         System.out.println(name);
+
+//        error
+//        var umur;
+        var nama = "Nani Indriyani";
+
+        final var nama2 = "Naura Fauziah";
+//        error
+//        nama2 = "Naura";
     }
 }

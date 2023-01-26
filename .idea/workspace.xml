@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="e50c14cd-28cd-4013-b3bd-93c615f3a46a" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/VariableExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/VariableExample.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,9 +35,23 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.VariableExample">
-    <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HelloWorld" />
+  <component name="RunManager" selected="Application.OperasiMatematikaExample">
+    <configuration name="ArrayExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArrayExample" />
+      <module name="belajar-java-dasar" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OperasiMatematikaExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OperasiMatematikaExample" />
+      <module name="belajar-java-dasar" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TipeDataBukanPrimitifExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TipeDataBukanPrimitifExample" />
       <module name="belajar-java-dasar" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -58,9 +73,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.OperasiMatematikaExample" />
+        <item itemvalue="Application.ArrayExample" />
+        <item itemvalue="Application.TipeDataBukanPrimitifExample" />
         <item itemvalue="Application.VariableExample" />
         <item itemvalue="Application.TipeDataStringExample" />
-        <item itemvalue="Application.HelloWorld" />
       </list>
     </recent_temporary>
   </component>
