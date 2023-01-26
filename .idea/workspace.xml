@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="e50c14cd-28cd-4013-b3bd-93c615f3a46a" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IfStatementExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IfStatementExample.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,30 +34,30 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.TernaryOperator">
-    <configuration name="IfStatementExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="IfStatementExample" />
+  <component name="RunManager" selected="Application.ContinueExample">
+    <configuration name="BreakExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BreakExample" />
       <module name="belajar-java-dasar" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OperasiBooleanExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OperasiBooleanExample" />
+    <configuration name="ContinueExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ContinueExample" />
       <module name="belajar-java-dasar" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OperasiMatematikaExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OperasiMatematikaExample" />
+    <configuration name="DoWhileLoopExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DoWhileLoopExample" />
       <module name="belajar-java-dasar" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SwitchStatementExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SwitchStatementExample" />
+    <configuration name="ForLoopExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ForLoopExample" />
       <module name="belajar-java-dasar" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -73,11 +72,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ContinueExample" />
+        <item itemvalue="Application.BreakExample" />
+        <item itemvalue="Application.DoWhileLoopExample" />
+        <item itemvalue="Application.ForLoopExample" />
         <item itemvalue="Application.TernaryOperator" />
-        <item itemvalue="Application.SwitchStatementExample" />
-        <item itemvalue="Application.IfStatementExample" />
-        <item itemvalue="Application.OperasiBooleanExample" />
-        <item itemvalue="Application.OperasiMatematikaExample" />
       </list>
     </recent_temporary>
   </component>
