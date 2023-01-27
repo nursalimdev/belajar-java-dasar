@@ -34,23 +34,9 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.MethodReturnValue">
-    <configuration name="BreakExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BreakExample" />
-      <module name="belajar-java-dasar" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ContinueExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ContinueExample" />
-      <module name="belajar-java-dasar" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ForEachExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ForEachExample" />
+  <component name="RunManager" selected="Application.RecursiveMethodExample">
+    <configuration name="MethodOverloadingExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MethodOverloadingExample" />
       <module name="belajar-java-dasar" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -70,13 +56,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MethodVariableArgumentExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MethodVariableArgumentExample" />
+      <module name="belajar-java-dasar" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RecursiveMethodExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RecursiveMethodExample" />
+      <module name="belajar-java-dasar" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RecursiveMethodExample" />
+        <item itemvalue="Application.MethodOverloadingExample" />
+        <item itemvalue="Application.MethodVariableArgumentExample" />
         <item itemvalue="Application.MethodReturnValue" />
         <item itemvalue="Application.MethodParameter" />
-        <item itemvalue="Application.ForEachExample" />
-        <item itemvalue="Application.ContinueExample" />
-        <item itemvalue="Application.BreakExample" />
       </list>
     </recent_temporary>
   </component>
